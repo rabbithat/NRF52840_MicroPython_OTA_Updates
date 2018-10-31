@@ -1,5 +1,5 @@
 # NRF52840_MicroPython_OTA_Updates
-Update your micropython code "over the air" using Nordic's nRF52 proprietary radio
+Micropython code to update the receiver's code "over the air" using Nordic's nRF52 proprietary radio
 
 You can read more about it here:
 https://forum.micropython.org/viewtopic.php?f=2&t=5351&start=20
